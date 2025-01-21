@@ -11060,3 +11060,9 @@ html {
   margin-right: 10px;
   color: #fff;
 }
+
+.avatar-video{
+  align-items: center;
+  width: 240px;
+  height: 240px;
+}
